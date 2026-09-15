@@ -1,0 +1,10 @@
+{
+  "description": "Provides international investors with a trusted, modern platform to explore and access expert advisory services for establishing businesses in Egypt.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
